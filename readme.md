@@ -35,7 +35,7 @@ O projeto Bikcraft é um portal de vendas ficticio de bicicletas para prática d
 ## 🔖Layout
 
 <p align="center">
-  <img alt="projeto Bikcraft" src="./img/bik.png" width="100%">
+  <img alt="projeto Bikcraft" src="./github/bik.png" width="100%">
 </p>
 
 ## Licença
