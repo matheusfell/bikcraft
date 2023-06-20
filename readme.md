@@ -28,14 +28,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Portfólio é um portal de acesso a informações profissionais minha.
+O projeto Bikcraft é um portal de vendas ficticio de bicicletas para prática de HTML e CSS.
 
 - [ Acesse o projeto finalizado, online ](https://matheusfell.github.io/bikcraft/)
 
 ## 🔖Layout
 
 <p align="center">
-  <img alt="projeto Bikcraft" src="./img/site.jpg" width="100%">
+  <img alt="projeto Bikcraft" src="./github/bik.png" width="100%">
 </p>
 
 ## Licença
