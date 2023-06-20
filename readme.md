@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Portfólio é um portal de acesso a informações profissionais minha.
 
-- [ Acesse o projeto finalizado, online ](https://matheusfell.github.io/portfolio/)
+- [ Acesse o projeto finalizado, online ](https://matheusfell.github.io/bikcraft/)
 
 ## 🔖Layout
 
